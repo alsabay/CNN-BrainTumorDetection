@@ -1,0 +1,30 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+ipykernel = "*"
+matplotlib = "*"
+tensorflow = "*"
+keras = "*"
+tqdm = "*"
+opencv-python = "*"
+sklearn = "*"
+plotly = "*"
+imutils = "*"
+keras-applications = "*"
+autopep8 = "*"
+ipywidgets = "*"
+pillow = ">=5.2.0"
+pandas = "*"
+seaborn = "*"
+umap = "*"
+scipy = "*"
+scikit-image = "*"
+
+[requires]
+python_version = "3.7"
