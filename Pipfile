@@ -25,6 +25,8 @@ seaborn = "*"
 umap = "*"
 scipy = "*"
 scikit-image = "*"
+jupyter-contrib-nbextensions = "*"
+jupyterthemes = "*"
 
 [requires]
 python_version = "3.7"
